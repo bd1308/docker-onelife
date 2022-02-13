@@ -1,2 +1,2 @@
-# docker-tekxit3
-Docker image for tekxit3 minecraft modpack
+# docker-onelife
+Docker image for OneLife minecraft modpack
